@@ -1,0 +1,1 @@
+Create index index_c2 on index_test(c2)
